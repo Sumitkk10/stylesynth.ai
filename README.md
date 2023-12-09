@@ -26,3 +26,7 @@ Welcome to **StyleSynth.ai**, your own AI fashion assistant.
 * **User Profiling:** Analyze the user’s past purchase & browsing data & preferences to provide accurate outfits
 * **Personalized user recommendations**: Generate outfits that consider body type, occasion, regional, and age preferences
 * **Interactive Tweaking:** Functionality for users to modify outfits through conversational interactions
+
+# Other Contributors:
+- [Abraham Paul ELenjical](https://github.com/abracodeabra1)
+- [Manasa Kalaimalai](https://github.com/manasakalaimalai/)
