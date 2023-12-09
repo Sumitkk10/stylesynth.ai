@@ -28,5 +28,5 @@ Welcome to **StyleSynth.ai**, your own AI fashion assistant.
 * **Interactive Tweaking:** Functionality for users to modify outfits through conversational interactions
 
 # Other Contributors:
-- [Abraham Paul ELenjical](https://github.com/abracodeabra1)
+- [Abraham Paul Elenjical](https://github.com/abracodeabra1)
 - [Manasa Kalaimalai](https://github.com/manasakalaimalai/)
